@@ -10,5 +10,6 @@ int main() {
     float b = 20 ;
     char c[] = "Haha" ;
     char d = 'a' ;
+    Output:
     printf( "%d %f %s %c", a, b, c, d) ; //TODO: #10 Display variable a, b, c and d.
 }
